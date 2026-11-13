@@ -1,0 +1,33 @@
+"""
+Goal ngayong araw (mga 2 oras):
+
+Makagawa ng command-line to-do app na kumpleto at hindi nagka-crash
+Mahati ang code sa ilang file (modules)
+Makapag-commit at makapag-push sa GitHub na may README
+
+Ang app na gagawin mo
+
+Magpapatuloy ka mula sa task_manager.py, pero ngayon ay mas kumpleto na.
+
+Mga kailangang feature:
+
+#	Feature	Sinasanay nito
+1	Magdagdag ng task	functions, list, dict
+2	Ipakita ang lahat ng task, may ID at marker [x]/[ ]	loop, f-string
+3	Tapusin ang task ayon sa ID	loop, return True/False
+4	Mag-delete ng task	list, ID
+5	Mag-edit ng pamagat ng task	dict
+6	Ipakita ang hindi pa tapos lang	list comprehension
+7	Nase-save sa tasks.json	file, JSON
+8	Hindi nagka-crash sa maling input	try/except
+
+Ang may bold ang bago ngayong araw.
+
+Mga extra (hamon, kung may oras):
+
+May priority ang bawat task (high, medium, low)
+May due_date na gamit ang datetime
+Maghanap ng task ayon sa salita (search)
+Ipakita ang bilang: 3 tapos, 5 hindi pa
+
+"""
