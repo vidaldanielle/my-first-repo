@@ -35,3 +35,26 @@ h1 {
   border-radius: 12px;
   font-size: 12px;
 }
+
+.search-row {
+  display: flex;
+  gap: 8px;
+  margin: 12px 0;
+}
+
+.search-box {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.search-row button {
+  padding: 10px 16px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
